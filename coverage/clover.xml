@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1772786149034" clover="3.2.0">
-  <project timestamp="1772786149034" name="All files">
+<coverage generated="1776264881427" clover="3.2.0">
+  <project timestamp="1776264881427" name="All files">
     <metrics statements="13" coveredstatements="13" conditionals="20" coveredconditionals="19" methods="3" coveredmethods="3" elements="36" coveredelements="35" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
     <file name="calculNote.js" path="C:\Users\User\Desktop\s2\Devops\tp\tp-api-nodejs\utils\calculNote.js">
       <metrics statements="13" coveredstatements="13" conditionals="20" coveredconditionals="19" methods="3" coveredmethods="3"/>
