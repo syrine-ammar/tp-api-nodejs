@@ -39,7 +39,7 @@ jobs:
 
       # Étape 3 : Installer les dépendances
       - name: 📦 Installer les dépendances
-        run: npm ci
+        run: npm install
         # npm ci est préférable à npm install en CI :
         # il installe EXACTEMENT les versions du package-lock.json
         # et est plus rapide et plus reproductible
